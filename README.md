@@ -18,7 +18,7 @@ Our application's main goal is to create a comfortable and intuitive interface t
 ## For Manager:
 
 1. **List of their employees**
-2. **Adding new employees** (to the list)
+2. **Adding new employee** (to the list)
 3. **Personal details about their employees** - as detailed above
 4. **Assigning cleaning duties and shifts**
-
+5. **Generating employee reports** - provides personal information about each employee's work, progress, and salary during the month.
